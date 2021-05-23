@@ -1,5 +1,7 @@
 # Fanaro Sabaki Theme Collection
 
+> This collection is still under construction. And, at any rate, even if you think some of the themes are *bad*, they still serve the purpose of illustrating bad practices &mdash; like too much constrast.
+
 Some more variants and themes for having a more lively Go experience.
 
 Unexpectedly, having a dark goban is actually refreshing. Even though we don't see the lines as easily, it becomes clear that they are not that necessary, as most of the time we place stones relative to one another. Not having to pay that much attention to lines is quite liberating and leaves a cleaner design. However, it is true that neon/oversaturated colors can tire the eyes much more easily; in that case, choose a dark theme with less saturated colors.

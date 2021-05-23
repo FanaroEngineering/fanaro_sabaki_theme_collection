@@ -40,16 +40,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5770481"
-     inkscape:cx="374.72968"
-     inkscape:cy="309.67938"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="288.51044"
+     inkscape:cy="221.29103"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1478"
-     inkscape:window-height="1074"
-     inkscape:window-x="0"
+     inkscape:window-width="1146"
+     inkscape:window-height="354"
+     inkscape:window-x="1408"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true" />
@@ -70,14 +70,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="opacity:0.998;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.10300014;filter:url(#filter3893);stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path16"
-       cx="68.193932"
-       cy="-68.04409"
-       transform="matrix(1.0000854,0,0,-0.99267518,-0.00582375,0.49856447)"
-       inkscape:export-filename="/home/philippe/Code/Fanaro Engineering/Darcula Sabaki/exports/stone_B.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       r="68" />
+       style="font-variation-settings:normal;opacity:0.998;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.799;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="path5213"
+       cx="67.973831"
+       cy="-68.334465"
+       transform="scale(1,-1)"
+       r="65" />
   </g>
 </svg>

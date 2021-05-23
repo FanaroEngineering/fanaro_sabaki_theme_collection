@@ -1,14 +1,3 @@
-.shudan-goban {
-    --shudan-board-border-width: 0;
-    --shudan-board-foreground-color: #000;
-
-    --shudan-black-background-color: #0E0E0E;
-    --shudan-black-foreground-color: #eee;
-
-    --shudan-white-background-color: #EBEBEB;
-    --shudan-white-foreground-color: #222;
-}
-
 .shudan-goban-image {
   background-image: url('img/background.png');
 }

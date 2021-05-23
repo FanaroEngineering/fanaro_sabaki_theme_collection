@@ -1,0 +1,9 @@
+{
+  "name": "fire-and-ice",
+  "version": "0.0.1",
+  "description": "A dark theme for playing Go",
+  "author": "Philippe Fanaro",
+  "license": "GPL",
+  "homepage": "https://github.com/FanaroEngineering/fanaro-sabaki-theme-collection",
+  "main": "styles.css"
+}

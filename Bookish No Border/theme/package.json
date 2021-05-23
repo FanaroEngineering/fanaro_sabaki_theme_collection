@@ -1,0 +1,9 @@
+{
+  "name": "bookish-no-border",
+  "version": "0.0.1",
+  "description": "A bookish theme for playing Go (without borders for white stones)",
+  "author": "Philippe Fanaro",
+  "license": "GPL",
+  "homepage": "https://github.com/FanaroEngineering/fanaro-sabaki-theme-collection",
+  "main": "styles.css"
+}

@@ -18,9 +18,28 @@ Some of my inspirations are:
 - Sabaki's CSS styling can be found [here](https://github.com/SabakiHQ/Shudan/tree/master/docs#styling).
 - A good example of a theme is the fantastic [Photorealistic theme](https://github.com/SabakiHQ/theme-photorealistic), by Yichuan Shen himself.
 
+## Debugging Tips
+
+- Sabaki seems to cache the `.asar` file if it has the same name as the previously loaded one. So, if you make a modification to an element and repackage the whole theme with the same name, the modification might not appear on Sabaki. To avoid this:
+    1. Uninstall your current theme.
+    1. Close Sabaki.
+    1. Reopen Sabaki and reinstall your theme.
+
+## Standard Organization
+
+The organization of my themes reflects the one found in the Photorealistic theme:
+
+- `projects/`: where I store the files intended to be manipulated with GUI image editors, like Adobe Illustrator, GIMP, Inkscape, etc.
+- `theme/`: where the theme is.
+- `theme/img/`: where you will find the `.png` files with the final form of the assets.
+- `theme/style.css`: the CSS styling of the theme.
+- `theme/package.json`: the metadata for the theme.
+- `<theme>.asar`: the binary with the packaged theme.
+
 ## Themes
 
 | Theme         | Example   |
 | ------------- | --------- |
 | Bluish Purple | example   |
 | Fire & Ice    | example   |
+| Bookish       | example   |

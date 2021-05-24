@@ -1,4 +1,4 @@
-# Fanaro Sabaki Theme Collection
+# Fanaro's Sabaki Theme Collection
 
 > This collection is still under construction. And, at any rate, even if you think some of the themes are *bad*, they still serve the purpose of illustrating bad practices &mdash; like too much constrast.
 

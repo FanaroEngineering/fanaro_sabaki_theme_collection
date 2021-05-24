@@ -15,6 +15,6 @@ find . -type f -name "*.asar" -exec cp -n {} release \; || exit 3
 
 zip "release_v${VERSION}.zip" release/* || exit 4
 
-rm -r release
+rm -r release || exit 5
 
 exit 0

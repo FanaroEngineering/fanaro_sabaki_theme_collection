@@ -42,7 +42,7 @@ The organization of my themes reflects the one found in the Photorealistic theme
 
 | Theme                 | Example                                                         |
 | --------------------- | --------------------------------------------------------------- |
-| Bluish Purple         | ![bluish-purple](screenshots/squared.png)                       |
+| Bluish Purple         | ![bluish-purple](screenshots/bluish_purple.png)                 |
 | Bluish Purple Squared | ![bluish-purple-squared](screenshots/bluish_purple_squared.png) |
 | Bookish               | ![bookish](screenshots/bookish.png)                             |
 | Bookish No Border     | ![bookish-no-border](screenshots/bookish_no_border.png)         |

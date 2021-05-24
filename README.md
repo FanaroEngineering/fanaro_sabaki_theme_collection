@@ -40,7 +40,7 @@ The organization of my themes reflects the one found in the Photorealistic theme
 
 ## Themes
 
-The screenshots below were taken from the game between [Shibano Toramaru 9p and Hane Naoki 9p, on 2021-04-02](http://go4go.net/go/games/sgfview/96076) &mdash; the file can be found inside the [assets/](assets/) folder.
+The screenshots below were taken from the game between [Shibano Toramaru 9p and Hane Naoki 9p, on 2021-04-02](http://go4go.net/go/games/sgfview/96076) &mdash; the file can be found inside the [`assets`](assets/) folder.
 
 | Theme                 | Example                                                         |
 | --------------------- | --------------------------------------------------------------- |

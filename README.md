@@ -12,7 +12,7 @@ Some of my inspirations are:
 
 - The [Dracula &mdash; or Darcula &mdash;](https://draculatheme.com/) text editing theme.
 - The [Color Go Server (CGS)](https://colorgoserver.com/).
-    - Maybe someone could extract the theme goodness they have there?
+    - Maybe someone could directly extract the theme goodness they have there? Maybe directly contact their devs?
 
 ## References
 

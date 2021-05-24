@@ -40,10 +40,12 @@ The organization of my themes reflects the one found in the Photorealistic theme
 
 ## Themes
 
-| Theme             | Example   |
-| ----------------- | --------- |
-| Bluish Purple     | example   |
-| Fire & Ice        | example   |
-| Bookish           | example   |
-| Bookish No Border | example   |
-| Reverse Bookish   | example   |
+| Theme                 | Example |
+| --------------------- | ------- |
+| Bluish Purple         | ![bluish-purple](screenshots/squared.png) |
+| Bluish Purple Squared | ![bluish-purple-squared](screenshots/bluish_purple_squared.png) |
+| Bookish               | example |
+| Bookish No Border     | example |
+| Reverse Bookish       | example |
+| Fire & Ice            | example |
+| Squared               | example |

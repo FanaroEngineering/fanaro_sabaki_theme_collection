@@ -18,7 +18,7 @@ Some of my inspirations are:
 
 - The documentation on how to create and package a theme can be found [here](https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/create-themes.md).
 - Sabaki's CSS styling can be found [here](https://github.com/SabakiHQ/Shudan/tree/master/docs#styling).
-- A good example of a theme is the fantastic [Photorealistic theme](https://github.com/SabakiHQ/theme-photorealistic), by Yichuan Shen himself.
+- A good example of a theme is the fantastic [Photorealistic theme](https://github.com/SabakiHQ/theme-photorealistic), by [Yichuan Shen](https://github.com/yishn) himself.
 
 ## Debugging Tips
 

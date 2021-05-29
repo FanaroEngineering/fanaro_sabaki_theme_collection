@@ -48,6 +48,7 @@ The screenshots below were taken from the game between [Shibano Toramaru 9p and 
 | Bluish Purple Squared | ![bluish-purple-squared](screenshots/bluish_purple_squared.png) |
 | Bookish               | ![bookish](screenshots/bookish.png)                             |
 | Bookish No Border     | ![bookish-no-border](screenshots/bookish_no_border.png)         |
+| Subdued Bookish       | [subdued-bookish](screenshots/subdued_bookish.png)
 | Reverse Bookish       | ![reverse-bookish](screenshots/reverse_bookish.png)             |
 | Fire & Ice            | ![fire-and-ice](screenshots/fire_and_ice.png)                   |
 | Squared               | ![squared](screenshots/squared.png)                             |

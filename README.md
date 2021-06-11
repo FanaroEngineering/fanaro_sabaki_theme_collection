@@ -19,6 +19,53 @@ Some of my inspirations are:
 - The documentation on how to create and package a theme can be found [here](https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/create-themes.md).
 - Sabaki's CSS styling can be found [here](https://github.com/SabakiHQ/Shudan/tree/master/docs#styling).
 - A good example of a theme is the fantastic [Photorealistic theme](https://github.com/SabakiHQ/theme-photorealistic), by [Yichuan Shen](https://github.com/yishn) himself.
+- Some advanced CSS for Sabaki can be found [here](https://github.com/SabakiHQ/Sabaki/issues/789). In short:
+    ```css
+    /* Stones texture */
+    .shudan-stone-image.shudan-sign_1 {background-image: url('0.png');}
+    .shudan-stone-image.shudan-sign_-1 {background-image: url('1.png');}
+    .shudan-stone-image.shudan-sign_-1.shudan-random_1 {background-image: url('2.png');}
+    .shudan-stone-image.shudan-sign_-1.shudan-random_2 {background-image: url('3.png');}
+    .shudan-stone-image.shudan-sign_-1.shudan-random_3 {background-image: url('4.png');}
+    .shudan-stone-image.shudan-sign_-1.shudan-random_4 {background-image: url('5.png');}
+
+    /* 100% stones size */
+    .shudan-vertex .shudan-stone {top: 0; left: 0; width: 100%; height: 100%;}
+
+    /* Black lines and disable borders */
+    .shudan-goban {--shudan-board-border-width: 0; --shudan-board-foreground-color: #000;}
+    .shudan-goban:not(.shudan-coordinates) {padding: 0;}
+
+    /* Board texture */
+    .shudan-goban-image {background-image: url('board1.png');}
+
+    /* Disable stones shadow */
+    .shudan-vertex:not(.shudan-sign_0) .shudan-shadow {background: none; box-shadow: none;}
+
+    /* Disable bar */
+    #bar {visibility: hidden;}
+    main {bottom: 0; background: #f0f0f0 url('background1.png') left top;}
+
+    /* Disable goban shadow */
+    #goban {box-shadow: none;}
+
+    /* Disable last move marker */
+    .shudan-vertex.shudan-marker_point.shudan-sign_1 .shudan-marker {background: none;}
+    .shudan-vertex.shudan-marker_point.shudan-sign_-1 .shudan-marker {background: none;}
+    
+    /* Heat map */
+    .shudan-vertex .shudan-heat {transition: opacity 0s, box-shadow 0s;}
+    .shudan-vertex.shudan-heat_9 .shudan-heat {background: #009900; box-shadow: 0 0 0 .5em #009900; opacity: 1;}
+    .shudan-vertex.shudan-heat_8 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex.shudan-heat_7 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex.shudan-heat_6 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex.shudan-heat_5 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex.shudan-heat_4 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex.shudan-heat_3 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex.shudan-heat_2 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex.shudan-heat_1 .shudan-heat {background: none; box-shadow: none; opacity: 1;}
+    .shudan-vertex .shudan-heatlabel {color: white; font-size: .38em; line-height: 1; text-shadow: none; opacity: 1;}
+    ```
 
 ## Debugging Tips
 

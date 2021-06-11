@@ -40,15 +40,16 @@ The organization of my themes reflects the one found in the Photorealistic theme
 
 ## Themes
 
-The screenshots below were taken from the game between [Shibano Toramaru 9p and Hane Naoki 9p, on 2021-04-02](http://go4go.net/go/games/sgfview/96076) &mdash; the file can be found inside the [`assets`](assets/) folder.
+The screenshots below were taken from the game between [Shibano Toramaru 9p and Hane Naoki 9p, on 2021-04-02](http://go4go.net/go/games/sgfview/96076), on move 80 &mdash; the file can be found inside the [`assets`](assets/) folder.
 
-| Theme                 | Example                                                         |
-| --------------------- | --------------------------------------------------------------- |
-| Bluish Purple         | ![bluish-purple](screenshots/bluish_purple.png)                 |
-| Bluish Purple Squared | ![bluish-purple-squared](screenshots/bluish_purple_squared.png) |
-| Bookish               | ![bookish](screenshots/bookish.png)                             |
-| Bookish No Border     | ![bookish-no-border](screenshots/bookish_no_border.png)         |
-| Subdued Bookish       | ![subdued-bookish](screenshots/subdued_bookish.png)
-| Reverse Bookish       | ![reverse-bookish](screenshots/reverse_bookish.png)             |
-| Fire & Ice            | ![fire-and-ice](screenshots/fire_and_ice.png)                   |
-| Squared               | ![squared](screenshots/squared.png)                             |
+| Theme                      | Example                                                                   |
+| -------------------------- | ------------------------------------------------------------------------- |
+| Bluish Purple              | ![bluish-purple](screenshots/bluish_purple.png)                           |
+| Bluish Purple Squared      | ![bluish-purple-squared](screenshots/bluish_purple_squared.png)           |
+| Bookish                    | ![bookish](screenshots/bookish.png)                                       |
+| Bookish No Border          | ![bookish-no-border](screenshots/bookish_no_border.png)                   |
+| Subdued Bookish            | ![subdued-bookish](screenshots/subdued_bookish.png          )             |
+| Reverse Bookish            | ![reverse-bookish](screenshots/reverse_bookish.png)                       |
+| Reverse Bookish Light Grid | ![reverse-bookish-light-grid](screenshots/reverse_bookish_light_grid.png) |
+| Fire & Ice                 | ![fire-and-ice](screenshots/fire_and_ice.png)                             |
+| Squared                    | ![squared](screenshots/squared.png)                                       |

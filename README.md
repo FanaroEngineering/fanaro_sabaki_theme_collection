@@ -1,5 +1,7 @@
 # Fanaro's Sabaki Theme Collection
 
+> I've written [a companion article](https://fanaro.io/articles/fanaro_sabaki_theme_collection/fanaro_sabaki_theme_collection.html) on my website about the motivation behind this repo. If also features a TLDR version of this documentation.
+
 > This collection is still under construction. And, at any rate, even if you think some of the themes are *bad*, they still serve the purpose of illustrating bad practices &mdash; like too much constrast.
 
 Some more variants and themes for having a more lively Go experience.

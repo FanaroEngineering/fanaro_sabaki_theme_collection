@@ -19,11 +19,14 @@ Some of my inspirations are:
 ## References
 
 Repos with themes:
-    - [Sabaki Theme Documentation](https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/theme-directory.md)
-    - [@SabakiHQ/theme-photorealistic](https://github.com/SabakiHQ/theme-photorealistic)
-    - [@jdriselvato/Hikaru-2-Sabaki-Theme](https://github.com/jdriselvato/Hikaru-2-Sabaki-Theme)
-    - [@geovens/Sabaki-Theme](https://github.com/geovens/Sabaki-Theme)
-    - [billhails/SabakiThemes](https://github.com/billhails/SabakiThemes)
+
+- [Sabaki Theme Documentation](https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/theme-directory.md)
+- [@SabakiHQ/theme-photorealistic](https://github.com/SabakiHQ/theme-photorealistic)
+- [@jdriselvato/Hikaru-2-Sabaki-Theme](https://github.com/jdriselvato/Hikaru-2-Sabaki-Theme)
+- [@geovens/Sabaki-Theme](https://github.com/geovens/Sabaki-Theme)
+- [billhails/SabakiThemes](https://github.com/billhails/SabakiThemes)
+
+Other info:
 
 - The documentation on how to create and package a theme can be found [here](https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/create-themes.md).
 - Sabaki's CSS styling can be found [here](https://github.com/SabakiHQ/Shudan/tree/master/docs#styling).

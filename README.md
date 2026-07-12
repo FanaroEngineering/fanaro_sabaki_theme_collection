@@ -24,7 +24,13 @@ Repos with themes:
 - [@SabakiHQ/theme-photorealistic](https://github.com/SabakiHQ/theme-photorealistic)
 - [@jdriselvato/Hikaru-2-Sabaki-Theme](https://github.com/jdriselvato/Hikaru-2-Sabaki-Theme)
 - [@geovens/Sabaki-Theme](https://github.com/geovens/Sabaki-Theme)
-- [billhails/SabakiThemes](https://github.com/billhails/SabakiThemes)
+- [@billhails/SabakiThemes](https://github.com/billhails/SabakiThemes)
+
+Other useful references:
+
+- [OGS Forums - Board Backgrounds Library](https://forums.online-go.com/t/board-backgrounds-library/29388/90)
+- [OGS Forums - Custom Boards](https://forums.online-go.com/t/custom-boards/28358/40)
+- [Patreon - PUMU](https://www.patreon.com/c/GoSkins/posts?vanity=GoSkins)
 
 Other info:
 
